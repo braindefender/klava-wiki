@@ -60,7 +60,22 @@ export default defineConfig({
             collapsed: true,
             link: "/hardware/controllers.md",
             items: [
-              { text: "XIAO BLE", link: "/hardware/controllers/xiao.md" },
+              {
+                text: "Микроконтроллеры",
+                items: [
+                  { text: "ATmega32U4", link: "/hardware/mcu/ATmega32U4.md" },
+                  { text: "nRF52840", link: "/hardware/mcu/nRF52840.md" },
+                ],
+              },
+              {
+                text: "Платы",
+                items: [
+                  { text: "nice!nano", link: "/hardware/shields/nice_nano.md" },
+                  { text: "ProMicro", link: "/hardware/shields/promicro.md" },
+                  { text: "SuperMini", link: "/hardware/shields/supermini.md" },
+                  { text: "XIAO BLE", link: "/hardware/shields/xiao.md" },
+                ],
+              },
             ],
           },
           {
