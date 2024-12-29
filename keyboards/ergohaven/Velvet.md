@@ -1,8 +1,8 @@
 # Velvet
 
-[Сплит-клавиатура](/dictionary/split.md) от [ErgoHaven](https://ru.ergohaven.xyz).
+[Сплит-клавиатура](/dictionary#сплит) от [ErgoHaven](https://ru.ergohaven.xyz).
 
-Размер основного блока — `3×6`. Имеет три клавиши на [тамб-кластере](/dictionary/thumb-cluster.md).
+Размер основного блока — `3×6`. Имеет три клавиши на [тамб-кластере](/dictionary#thumb-cluster).
 
 Также, на каждой половинке есть две дополнительные клавиши для безымянного и среднего пальцев.
 

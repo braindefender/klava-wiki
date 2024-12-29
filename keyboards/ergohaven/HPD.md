@@ -1,8 +1,8 @@
 # HPD
 
-[Сплит-клавиатура](/dictionary/split.md) от [ErgoHaven](https://ru.ergohaven.xyz).
+[Сплит-клавиатура](/dictionary#сплит) от [ErgoHaven](https://ru.ergohaven.xyz).
 
-Размер основного блока — `4×6`. Имеет четыре клавиши на [тамб-кластере](/dictionary/thumb-cluster.md).
+Размер основного блока — `4×6`. Имеет четыре клавиши на [тамб-кластере](/dictionary#thumb-cluster).
 
 Каждая половинка имеет дополнительные клавиши для безымянного и среднего пальцев. В будущих версиях планируется подключение модулей [трекбола](/hardware/trackball.md), [тачпада](/hardware/touchpad.md) или [энкодера](/hardware/encoder.md).
 

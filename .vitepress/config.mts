@@ -14,6 +14,10 @@ export default defineConfig({
       { text: "Examples", link: "/markdown-examples" },
     ],
 
+    outline: {
+      label: "На этой странице",
+    },
+
     sidebar: [
       {
         text: "Статьи",
@@ -30,30 +34,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "Словарь",
-        collapsed: true,
-        items: [
-          { text: "Hotswap", link: "/dictionary/hotswap.md" },
-          { text: "Коды клавиш", link: "/dictionary/keycode.md" },
-          { text: "Лигатуры", link: "/dictionary/ligatures.md" },
-          { text: "Модификаторы", link: "/dictionary/mods.md" },
-          { text: "Моносплит", link: "/dictionary/monosplit.md" },
-          { text: "Пальцы", link: "/dictionary/fingers.md" },
-          { text: "Слои", link: "/dictionary/layers.md" },
-          { text: "Сплит-клавиатура", link: "/dictionary/split.md" },
-          { text: "Стаггер", link: "/dictionary/stagger.md" },
-          {
-            text: "Стандартная клавиатура",
-            link: "/dictionary/standard-keyboard.md",
-          },
-          { text: "Стем", link: "/dictionary/stem.md" },
-          { text: "Тентинг", link: "/dictionary/tenting.md" },
-          { text: "Футпринт", link: "/dictionary/footprint.md" },
-        ],
-      },
-      {
         text: "Железо",
-        collapsed: true,
         items: [
           {
             text: "Контроллеры",
@@ -70,9 +51,15 @@ export default defineConfig({
               {
                 text: "Платы",
                 items: [
-                  { text: "nice!nano", link: "/hardware/shields/nice_nano.md" },
+                  {
+                    text: "nice!nano",
+                    link: "/hardware/shields/nice_nano.md",
+                  },
                   { text: "ProMicro", link: "/hardware/shields/promicro.md" },
-                  { text: "SuperMini", link: "/hardware/shields/supermini.md" },
+                  {
+                    text: "SuperMini",
+                    link: "/hardware/shields/supermini.md",
+                  },
                   { text: "XIAO BLE", link: "/hardware/shields/xiao.md" },
                 ],
               },
@@ -96,7 +83,6 @@ export default defineConfig({
       },
       {
         text: "Прошивки",
-        collapsed: true,
         link: "/firmware/firmware.md",
         items: [
           { text: "QMK", link: "/firmware/qmk.md" },
@@ -107,7 +93,6 @@ export default defineConfig({
       },
       {
         text: "Программы",
-        collapsed: true,
         items: [
           { text: "AutoHotkey", link: "/software/ahk.md" },
           { text: "KbdEdit", link: "/software/kbdedit.md" },
@@ -145,6 +130,11 @@ export default defineConfig({
           { text: "Kyria", link: "/keyboards/Kyria" },
           { text: "Sofle", link: "/keyboards/Sofle" },
         ],
+      },
+      {
+        text: "Словарь",
+        collapsed: true,
+        link: "/dictionary",
       },
     ],
 

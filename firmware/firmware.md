@@ -8,6 +8,6 @@
 
 Способ прошивки контроллера и формат файлов самой прошивки зависит от контроллера, который вы используете.
 
-Например, [XIAO BLE](/hardware/shields/xiao.md), [nice!nano](/hardware/shields/nice_nano.md) или [SuperMini](/hardware/shields/supermini.md) при перезагрузке в режим [bootloader'а](/dictionary/bootloader.md) определяются ПК как флешка. Чтобы прошить такой контроллер, нужно просто поместить в его директорию файл с прошивкой в формате `UF2`.
+Например, [XIAO BLE](/hardware/shields/xiao.md), [nice!nano](/hardware/shields/nice_nano.md) или [SuperMini](/hardware/shields/supermini.md) при перезагрузке в режим [bootloader'а](/dictionary#bootloader) определяются ПК как флешка. Чтобы прошить такой контроллер, нужно просто поместить в его директорию файл с прошивкой в формате `UF2`.
 
-Более старые контроллеры (например [ProMicro](/hardware/shields/promicro.md)) при перезагрузке в режим [bootloader'а](/dictionary/bootloader.md) не определяются ПК как флешка. Для их прошивки потребуется специальный софт, например [QMK Toolbox](/software/qmk_toolbox.md).
+Более старые контроллеры (например [ProMicro](/hardware/shields/promicro.md)) при перезагрузке в режим [bootloader'а](/dictionary#bootloader) не определяются ПК как флешка. Для их прошивки потребуется специальный софт, например [QMK Toolbox](/software/qmk_toolbox.md).

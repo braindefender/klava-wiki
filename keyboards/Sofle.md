@@ -1,6 +1,6 @@
 # Sofle
 
-[Сплит-клавиатура](/dictionary/split.md) с сеткой `6x4+5`, вертикальным [стаггером](/dictionary/stagger.md) и [энкодерами](/hardware/encoder.md).
+[Сплит-клавиатура](/dictionary#сплит) с сеткой `6x4+5`, вертикальным [стаггером](/dictionary#стаггер) и [энкодерами](/hardware/encoder.md).
 
 Основана на клавиатурах Lily58, Corne и Helix.
 
