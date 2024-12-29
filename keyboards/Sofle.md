@@ -1,4 +1,6 @@
-Sofle — [сплит](/dictionary/split.md) клавиатура с сеткой `6x4+5`, вертикальным [стаггером](/dictionary/stagger.md) и [энкодерами](/dictionary/encoder.md).
+# Sofle
+
+[Сплит-клавиатура](/dictionary/split.md) с сеткой `6x4+5`, вертикальным [стаггером](/dictionary/stagger.md) и [энкодерами](/hardware/encoder.md).
 
 Основана на клавиатурах Lily58, Corne и Helix.
 

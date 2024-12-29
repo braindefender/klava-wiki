@@ -113,6 +113,7 @@ export default defineConfig({
           { text: "KbdEdit", link: "/software/kbdedit.md" },
           { text: "MSKLC", link: "/software/msklc.md" },
           { text: "Ukelele", link: "/software/ukelele.md" },
+          { text: "QMK Toolbox", link: "/software/qmk_toolbox.md" },
         ],
       },
       {
@@ -123,17 +124,21 @@ export default defineConfig({
             text: "Bastardkb",
             collapsed: true,
             items: [
-              { text: "TBK Mini", link: "/keyboards/bastardkb/TBK_Mini" },
-              { text: "Skeletyl", link: "/keyboards/bastardkb/Skeletyl" },
               { text: "Scylla", link: "/keyboards/bastardkb/Scylla" },
+              { text: "Skeletyl", link: "/keyboards/bastardkb/Skeletyl" },
+              { text: "TBK Mini", link: "/keyboards/bastardkb/TBK_Mini" },
             ],
           },
           {
             text: "Ergohaven",
             collapsed: true,
             items: [
-              { text: "Planeta", link: "/keyboards/ergohaven/Planeta" },
+              { text: "HPD", link: "/keyboards/ergohaven/HPD" },
+              { text: "Imperial44", link: "/keyboards/ergohaven/Imperial44" },
+              { text: "K:03 Pro", link: "/keyboards/ergohaven/K_03_Pro" },
               { text: "K:03", link: "/keyboards/ergohaven/K_03" },
+              { text: "Planeta", link: "/keyboards/ergohaven/Planeta" },
+              { text: "Velvet", link: "/keyboards/ergohaven/Velvet" },
             ],
           },
           { text: "Corne", link: "/keyboards/Corne" },
