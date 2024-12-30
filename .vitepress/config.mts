@@ -132,6 +132,16 @@ export default defineConfig({
         ],
       },
       {
+        text: "Управление курсором",
+        collapsed: true,
+        items: [
+          { text: "Мышь", link: "/input/cursor/mouse" },
+          { text: "Трекбол", link: "/input/cursor/trackball" },
+          { text: "Трекпад", link: "/input/cursor/trackpad" },
+          { text: "Трекпоинт", link: "/input/cursor/trackpoint" },
+        ],
+      },
+      {
         text: "Словарь",
         collapsed: true,
         link: "/dictionary",
