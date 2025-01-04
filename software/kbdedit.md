@@ -1,6 +1,6 @@
 # KbdEdit
 
-Платный редактор [системных раскладок](/articles/hardware-vs-software-layout.md) для Windows.
+Платный редактор [системных раскладок](/layouts/software.md) для Windows.
 
 [Оф. сайт](http://www.kbdedit.com)
 

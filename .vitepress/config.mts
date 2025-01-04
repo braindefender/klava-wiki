@@ -28,14 +28,24 @@ export default defineConfig({
             link: "/articles/how-keyboard-works",
           },
           {
-            text: "Системные и аппаратные раскладки",
-            link: "/articles/hardware-vs-software-layout",
+            text: "Проблемы системных раскладок",
+            link: "/articles/system-layout-problems",
           },
         ],
       },
       {
         text: "Железо",
         items: [
+          {
+            text: "Управление курсором",
+            collapsed: true,
+            items: [
+              { text: "Мышь", link: "/input/cursor/mouse" },
+              { text: "Трекбол", link: "/input/cursor/trackball" },
+              { text: "Трекпад", link: "/input/cursor/trackpad" },
+              { text: "Трекпоинт", link: "/input/cursor/trackpoint" },
+            ],
+          },
           {
             text: "Контроллеры",
             collapsed: true,
@@ -92,7 +102,49 @@ export default defineConfig({
         ],
       },
       {
-        text: "Программы",
+        text: "Раскладки",
+        items: [
+          {
+            text: "Аппаратные",
+            collapsed: true,
+            items: [
+              {
+                text: "Callum",
+                link: "/layouts/hardware/callum",
+              },
+            ],
+          },
+          {
+            text: "Системные",
+            collapsed: true,
+            link: "/layouts/software",
+            items: [
+              {
+                text: "Universal Layout",
+                link: "/layouts/software/universal-layout",
+              },
+            ],
+          },
+          {
+            text: "Комбинированные",
+            collapsed: true,
+            link: "/layouts/combined",
+            items: [
+              {
+                text: "Wellum",
+                link: "/layouts/combined/wellum",
+              },
+            ],
+          },
+          {
+            text: "Стрелки",
+            link: "/layouts/arrows",
+          },
+        ],
+      },
+      {
+        text: "Приложения",
+        collapsed: true,
         items: [
           { text: "AutoHotkey", link: "/software/ahk.md" },
           { text: "KbdEdit", link: "/software/kbdedit.md" },
@@ -129,16 +181,6 @@ export default defineConfig({
           { text: "Corne", link: "/keyboards/Corne" },
           { text: "Kyria", link: "/keyboards/Kyria" },
           { text: "Sofle", link: "/keyboards/Sofle" },
-        ],
-      },
-      {
-        text: "Управление курсором",
-        collapsed: true,
-        items: [
-          { text: "Мышь", link: "/input/cursor/mouse" },
-          { text: "Трекбол", link: "/input/cursor/trackball" },
-          { text: "Трекпад", link: "/input/cursor/trackpad" },
-          { text: "Трекпоинт", link: "/input/cursor/trackpoint" },
         ],
       },
       {

@@ -1,6 +1,6 @@
 # Ukelele
 
-Бесплатный редактор [системных раскладок](/articles/hardware-vs-software-layout.md) для macOS.
+Бесплатный редактор [системных раскладок](/layouts/software.md) для macOS.
 
 [Оф. сайт](https://software.sil.org/ukelele/)
 

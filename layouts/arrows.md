@@ -10,8 +10,7 @@
 
 #### Vim-like
 
-> Обычно встречается на `H` `J` `K` `L`, но для большего удобства
-> в современных [сплит-клавиатурах](/dictionary#сплит) его можно переместить на `J` `K` `L` `;`.
+> Обычно встречается на `H` `J` `K` `L`, но для большего удобства в современных [сплит-клавиатурах](/dictionary#сплит) их можно переместить на `J` `K` `L` `;`
 
 ![inverted-t](/assets/arrows/arrows--vim-like.png)
 
@@ -41,4 +40,4 @@
 
 ![l-shaped](/assets/arrows/arrows--l-shaped.png)
 
-[Ссылка на Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/c0bae0d748a88eb1d3fdbba7cc892b09)
+Ссылка на [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/c0bae0d748a88eb1d3fdbba7cc892b09)
