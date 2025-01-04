@@ -107,6 +107,7 @@ export default defineConfig({
           {
             text: "Аппаратные",
             collapsed: true,
+            link: "/layouts/hardware",
             items: [
               {
                 text: "Callum",
@@ -122,6 +123,10 @@ export default defineConfig({
               {
                 text: "Universal Layout",
                 link: "/layouts/software/universal-layout",
+              },
+              {
+                text: "Ручей",
+                link: "/layouts/software/ruchey",
               },
             ],
           },
