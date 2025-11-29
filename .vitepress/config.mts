@@ -172,6 +172,11 @@ export default defineConfig({
             ],
           },
           {
+            text: "braindefender",
+            collapsed: true,
+            items: [{ text: "Lapka", link: "/keyboards/braindefender/Lapka" }],
+          },
+          {
             text: "Ergohaven",
             collapsed: true,
             items: [

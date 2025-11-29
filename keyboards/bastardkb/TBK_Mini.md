@@ -2,7 +2,7 @@
 
 ![](/assets/keyboards/bastardkb/tbk_mini.jpg)
 
-[Сплит-клавиатура](/dictionary#сплит) с сеткой `6×3+3` и manuform-подобным [тамб-кластером](/dictionary.md#thumb-cluster).
+[Сплит-клавиатура](/dictionary#сплит) с сеткой `6×3+3` и manuform-подобным [тамб-кластером](/dictionary.md#тамб-кластер).
 
 [Магазин](https://bastardkb.com/product/tbk-mini-prebuilt-preorder/) / [GitHub](https://github.com/Bastardkb/TBK-Mini)
 
