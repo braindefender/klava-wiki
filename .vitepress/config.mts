@@ -31,6 +31,10 @@ export default defineConfig({
             text: "Проблемы системных раскладок",
             link: "/articles/system-layout-problems",
           },
+          {
+            text: "Чего такой липкий?",
+            link: "/articles/why-so-sticky",
+          },
         ],
       },
       {
