@@ -100,9 +100,10 @@ export default defineConfig({
         link: "/firmware/firmware.md",
         items: [
           { text: "QMK", link: "/firmware/qmk.md" },
-          { text: "ZMK", link: "/firmware/zmk.md" },
+          { text: "RMK", link: "/firmware/rmk.md" },
           { text: "VIA", link: "/firmware/via.md" },
           { text: "Vial", link: "/firmware/vial.md" },
+          { text: "ZMK", link: "/firmware/zmk.md" },
         ],
       },
       {
