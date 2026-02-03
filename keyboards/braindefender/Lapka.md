@@ -15,6 +15,6 @@
 При использовании Choc v1 свитчей, совместима почти с любыми Choc-кейкапами.
 А при использовании Choc v2 свитчей, выбор кейкапов сильно ограничен, вследствие Choc-spacing'а.
 
-Первая версия имеет равномерный [splay](/dictionary#splay), не имеет крышки дна и [hotswap-сокетов](/dictionary/#hotswap).
+Первая версия имеет равномерный [splay](/dictionary#splay), не имеет крышки дна и [hotswap-сокетов](/dictionary#hotswap).
 
 [Официальная страница](https://braindefender.github.io/get-lapka/) | [GitHub](https://github.com/braindefender/lapka)
